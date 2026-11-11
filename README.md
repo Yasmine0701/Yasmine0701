@@ -12,6 +12,8 @@ J'applique la statistique, l'économétrie et le machine learning à la mesure d
 | Projet | Domaine | Outils |
 |---|---|---|
 | [VaR sur le marché BRVM](https://github.com/Yasmine0701/var-brvm) | Mesure du risque : approches paramétrique, semi-paramétrique et Monte Carlo | R / Python |
+| [Moteur VaR & Expected Shortfall](https://github.com/Yasmine0701/var-es-risk-engine) | 6 méthodes de VaR/ES, backtesting Kupiec & Christoffersen | Python |
+
 | [Churn bancaire](https://github.com/Yasmine0701/churn-bancaire) | Prédiction du désabonnement client | Python, ML, Streamlit |
 | [Risque d'accident automobile](https://github.com/Yasmine0701/risque-accident-auto) | Régression logistique, modèle de Poisson | R |
 | [Qualité de l'air à Pékin](https://github.com/Yasmine0701/qualite-air-pekin) | Séries temporelles ARIMA | Python |
