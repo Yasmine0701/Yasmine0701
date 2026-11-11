@@ -18,7 +18,7 @@ J'applique la statistique, l'économétrie et le machine learning à la mesure d
 | [Risque d'accident automobile](https://github.com/Yasmine0701/risque-accident-auto) | Régression logistique, modèle de Poisson | R |
 | [Qualité de l'air à Pékin](https://github.com/Yasmine0701/qualite-air-pekin) | Séries temporelles ARIMA | Python |
 
-👉 Tous mes projets : [portfolio](https://github.com/Yasmine0701/portfolio)
+👉 Tous mes projets : [portfolio](https://yasmine-coulibaly.shinyapps.io/portfolio-shiny/)
 
 ---
 
@@ -33,4 +33,4 @@ J'applique la statistique, l'économétrie et le machine learning à la mesure d
 
 ## Contact
 
-📧 coulyas74@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/peteninta-lagnon-coulibaly) · 🌐 [Application Shiny](https://yasmine-coulibaly.shinyapps.io/portfolio/)
+📧 coulyas74@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/peteninta-lagnon-coulibaly) · 🌐 [Application Shiny](https://yasmine-coulibaly.shinyapps.io/portfolio-shiny/)
